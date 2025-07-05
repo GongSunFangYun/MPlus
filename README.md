@@ -1,6 +1,6 @@
 # MPlus - 超輕量Makrdown即時編輯器
 
-<img height="270" alt="image" src="https://github.com/user-attachments/assets/41599b55-4d0b-45be-982f-edf2c211dfb1" align="right">
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/41599b55-4d0b-45be-982f-edf2c211dfb1" align="right">
 
 [![GitHub release](https://img.shields.io/github/v/release/GongSunFangYun/MPlus?style=flat-square)]()
 [![Downloads](https://img.shields.io/github/downloads/GongSunFangYun/MPlus/total?style=flat-square)]()
@@ -16,6 +16,6 @@
 ### 它的功能被閹割了嗎？
 - 事實上，我們只做了精簡化處理，並未閹割Markdown基礎標記符號。
 - 您可以使用任意Markdown標記符號對您的文本文件進行處理！  
-*請注意，由於MPlus剛剛推出Release 1.0版本，因此可能存在一些"莫名其妙"的Bug和意外標記錯誤。
+*請注意，由於MPlus剛剛推出Release 1.0版本，因此可能存在一些"莫名其妙"的Bug和意外標記錯誤。  
 如果您在使用MPlus過程中遇到了這些問題，請立即報告給我們！
 ![image](https://github.com/user-attachments/assets/4001fa61-bdd6-4d32-9055-21fe923292f9)
