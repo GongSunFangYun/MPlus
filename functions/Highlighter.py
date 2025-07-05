@@ -1,4 +1,4 @@
-# MD语法高亮
+# MD语法高亮，存在很多神奇的bug，暂时修不了
 
 from PySide6.QtCore import QRegularExpression
 from PySide6.QtGui import (
