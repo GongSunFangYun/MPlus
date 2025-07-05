@@ -1,6 +1,6 @@
 # MPlus - 超輕量Makrdown即時編輯器
 
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/41599b55-4d0b-45be-982f-edf2c211dfb1" align="right">
+<img height="270" alt="image" src="https://github.com/user-attachments/assets/41599b55-4d0b-45be-982f-edf2c211dfb1" align="right">
 
 [![GitHub release](https://img.shields.io/github/v/release/GongSunFangYun/MPlus?style=flat-square)]()
 [![Downloads](https://img.shields.io/github/downloads/GongSunFangYun/MPlus/total?style=flat-square)]()
