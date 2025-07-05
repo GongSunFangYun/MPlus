@@ -14,7 +14,6 @@ class MarkdownHighlighter(QSyntaxHighlighter):
         self.initHighlightRules()
 
     def initHighlightRules(self):
-        """初始化高亮规则"""
         # 颜色配置
         colors = {
             'heading': QColor("#569cd6"),
@@ -123,8 +122,7 @@ class MarkdownHighlighter(QSyntaxHighlighter):
             htmlFormat
         ))
 
-    def highlightBlock(self, text):
-        """高亮文本块"""
+    def highlightBlock(self, text): #高亮文本块
         for pattern, fmt in self.highlightingRules:
             matchIterator = pattern.globalMatch(text)
             while matchIterator.hasNext():
@@ -134,3 +132,4 @@ class MarkdownHighlighter(QSyntaxHighlighter):
                     match.capturedLength(),
                     fmt
                 )
+# 从头到尾我也不知道我写了多大的一坨语法分析器
