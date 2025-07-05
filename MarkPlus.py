@@ -1,4 +1,5 @@
 # Python Version: 3.13
+# 入口，同时处理了一堆东西，比如QAction
 
 import os
 import sys
@@ -392,7 +393,7 @@ class MarkdownPreviewer(QMainWindow):
             self.saveToFile(self.currentFile)
 
     @staticmethod
-    def getPrinter():
+    def getPrinter(): # 打印预览报废了，因为脑萎缩半天不知道怎么搞了
         printer = QPrinter()
         # 获取默认打印机名称
         default_printer = printer.printerName()
