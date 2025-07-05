@@ -7,6 +7,7 @@ from pygments import highlight
 from pygments.formatters import HtmlFormatter
 from pygments.lexers import get_lexer_by_name
 # pygments的恩情还不完🤚😭🤚
+# pygments：代码高亮这一块
 
 # noinspection RegExpRedundantEscape,PyBroadException
 class MarkdownRenderer:
@@ -78,8 +79,7 @@ class MarkdownRenderer:
         return text
 
     @staticmethod
-    def preprocessBlockquotes(text):
-        """改进的引用块预处理，确保正确处理边界情况"""
+    def preprocessBlockquotes(text): # 这个也是一坨，直接硬算引用块缩进
         lines = text.split('\n')
         processed_lines = []
         current_block = []
@@ -125,7 +125,6 @@ class MarkdownRenderer:
 
     @staticmethod
     def _flushBlockquote(output, block, level):
-        """将收集的引用块内容添加到输出"""
         if not block:
             return
 
