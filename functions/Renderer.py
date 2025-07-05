@@ -1,4 +1,5 @@
 # 渲染MD内容，右侧那玩意
+# 本质上还是QLabel套HTML渲染的，毕竟css可以直接用
 
 import re
 
