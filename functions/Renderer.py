@@ -7,8 +7,7 @@ from markdown_it import MarkdownIt
 from pygments import highlight
 from pygments.formatters import HtmlFormatter
 from pygments.lexers import get_lexer_by_name
-# pygments的恩情还不完🤚😭🤚
-# pygments：代码高亮这一块
+# pygments：代码高亮这一块👍
 
 # noinspection RegExpRedundantEscape,PyBroadException
 class MarkdownRenderer:
