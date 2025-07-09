@@ -1,4 +1,4 @@
-pip install pyinstaller
+# pip install pyinstaller
 
 pyinstaller MPlus.spec
 # 也可以使用：
