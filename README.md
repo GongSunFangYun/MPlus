@@ -19,3 +19,13 @@
 *請注意，由於MPlus剛剛推出Release 1.0版本，因此可能存在一些"莫名其妙"的Bug和意外標記錯誤。  
 如果您在使用MPlus過程中遇到了這些問題，請立即報告給我們！
 ![image](https://github.com/user-attachments/assets/4001fa61-bdd6-4d32-9055-21fe923292f9)
+
+## Star History
+
+<a href="https://www.star-history.com/#GongSunFangYun/MPlus&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=GongSunFangYun/MPlus&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=GongSunFangYun/MPlus&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=GongSunFangYun/MPlus&type=Date" />
+ </picture>
+</a>
