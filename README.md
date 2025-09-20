@@ -7,6 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/GongSunFangYun/MPlus?style=flat-square)]()
 [![Forks](https://img.shields.io/github/forks/GongSunFangYun/MPlus?style=flat-square)]()
 [![Issues](https://img.shields.io/github/issues/GongSunFangYun/MPlus?style=flat-square)]()
+[![License](https://img.shields.io/github/license/GongSunFangYun/MPlus?style=flat-square)]()
 ![简体中文支持](https://img.shields.io/badge/简体中文-支持-ff8c00?style=flat-square&labelColor=ff8c00&color=ffd700)
 
 ### 這是什麼？
